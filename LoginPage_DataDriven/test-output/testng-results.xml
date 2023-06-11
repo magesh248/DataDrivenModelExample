@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-04T07:39:14 IST" name="Default suite" finished-at="2023-04-04T07:39:34 IST" duration-ms="19609">
+    <groups>
+    </groups>
+    <test started-at="2023-04-04T07:39:14 IST" name="Default test" finished-at="2023-04-04T07:39:34 IST" duration-ms="19609">
+      <class name="datadriven_Example.LoginExtractExcel">
+        <test-method is-config="true" signature="launch_chrome()[pri:0, instance:datadriven_Example.LoginExtractExcel@359f7cdf]" started-at="2023-04-04T07:39:14 IST" name="launch_chrome" finished-at="2023-04-04T07:39:19 IST" duration-ms="4573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_chrome -->
+        <test-method signature="login_page(java.lang.String,java.lang.String)[pri:0, instance:datadriven_Example.LoginExtractExcel@359f7cdf]" started-at="2023-04-04T07:39:19 IST" name="login_page" data-provider="Login" finished-at="2023-04-04T07:39:22 IST" duration-ms="3284" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ramesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wmcn723]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_page -->
+        <test-method signature="login_page(java.lang.String,java.lang.String)[pri:0, instance:datadriven_Example.LoginExtractExcel@359f7cdf]" started-at="2023-04-04T07:39:22 IST" name="login_page" data-provider="Login" finished-at="2023-04-04T07:39:25 IST" duration-ms="3507" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abinaiya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[n23e9ducs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_page -->
+        <test-method signature="login_page(java.lang.String,java.lang.String)[pri:0, instance:datadriven_Example.LoginExtractExcel@359f7cdf]" started-at="2023-04-04T07:39:25 IST" name="login_page" data-provider="Login" finished-at="2023-04-04T07:39:29 IST" duration-ms="3651" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Santhosh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[09dbsyjj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_page -->
+        <test-method signature="login_page(java.lang.String,java.lang.String)[pri:0, instance:datadriven_Example.LoginExtractExcel@359f7cdf]" started-at="2023-04-04T07:39:29 IST" name="login_page" data-provider="Login" finished-at="2023-04-04T07:39:33 IST" duration-ms="4065" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Roobin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[239mfd75y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_page -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:datadriven_Example.LoginExtractExcel@359f7cdf]" started-at="2023-04-04T07:39:33 IST" name="close_browser" finished-at="2023-04-04T07:39:34 IST" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- datadriven_Example.LoginExtractExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
