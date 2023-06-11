@@ -1,2 +1,2 @@
-# PageObjectModelExample
-This contain POM with and without Page Factory
+# DataDrivenModelExample
+This contain Data Driven framework example
