@@ -1,0 +1,4 @@
+2023-04-14 11:18:58 FATAL PropertyfileLog4j:15 - This is fatal message
+2023-04-14 11:18:58 ERROR PropertyfileLog4j:16 - This is error message
+2023-04-14 11:18:58 INFO  PropertyfileLog4j:17 - This is info message
+2023-04-14 11:18:58 WARN  PropertyfileLog4j:18 - This is warn message
